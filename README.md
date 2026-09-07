@@ -15,7 +15,7 @@ Print-ready PDFs: reading journals, book trackers, planners, writing worksheets,
 <!-- Update this table as categories are added. -->
 
 | Folder | What is in it | Source |
-|---|---|---|
+|:---|:---|:---|
 | `reading/` | Reading journals, book trackers, TBR lists, reading bingo, book club handouts | printable-studio |
 | `writing/` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | printable-studio |
 | `planners/` | Weekly and monthly planners, habit trackers, goal sheets | printable-studio |
