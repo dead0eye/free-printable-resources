@@ -16,13 +16,13 @@ Print-ready PDFs: reading journals, book trackers, planners, writing worksheets,
 
 | Printables | What is in it | Download |
 |:---|:---|:---|
-| `For readers` | Reading journals, book trackers, TBR lists, reading bingo, book club handouts | [View Releases](../../releases) |
-| `For writers` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | [View Releases](../../releases) |
+| `For readers` | Reading journals, book trackers, TBR lists, reading bingo, book club handouts | Coming Soon |
+| `For writers` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | Coming Soon |
 | `Planners / Productivity` | Weekly and monthly planners, habit trackers, goal sheets | [View Releases](../../releases/tag/planners-productivity) |
-| `Mazes` | Square, triangular, hexagonal and circular mazes, with solutions | [View Releases](../../releases) |
-| `Sudoku Puzzles` | Sudoku and sudoku variants across several difficulties, with solutions | [View Releases](../../releases) |
-| `Crossword Puzzles` | 5×5, 10×10 and 15×15 crossword puzzles, with solutions | [View Releases](../../releases) |
-| `Coloring Books` | Mandala colouring pages | [View Releases](../../releases)
+| `Mazes` | Square, triangular, hexagonal and circular mazes, with solutions | Coming Soon |
+| `Sudoku Puzzles` | Sudoku and sudoku variants across several difficulties, with solutions | Coming Soon |
+| `Crossword Puzzles` | 5×5, 10×10 and 15×15 crossword puzzles, with solutions | Coming Soon |
+| `Coloring Books` | Mandala colouring pages | Coming Soon
 
 Every file is a PDF. Nothing needs installing and nothing needs an account.
 
