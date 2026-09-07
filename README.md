@@ -16,7 +16,7 @@ Print-ready PDFs: reading journals, book trackers, planners, writing worksheets,
 
 | Printables | What is in it | Download |
 |:---|:---|:---|
-| `For readers` | Reading journals, book trackers, TBR lists, reading bingo, book club handouts | [View Releases](./releases) |
+| `For readers` | Reading journals, book trackers, TBR lists, reading bingo, book club handouts | [View Releases](../../releases) |
 | `For writers` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | [View Releases](./releases) |
 | `Planners` | Weekly and monthly planners, habit trackers, goal sheets | [View Releases](./releases) |
 | `Mazes` | Square, triangular, hexagonal and circular mazes, with solutions | [View Releases](./releases) |
