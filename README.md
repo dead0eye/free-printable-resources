@@ -14,15 +14,15 @@ Print-ready PDFs: reading journals, book trackers, planners, writing worksheets,
 
 <!-- Update this table as categories are added. -->
 
-| Folder | What is in it | Source |
+| Printables | What is in it | Download |
 |:---|:---|:---|
-| `reading/` | Reading journals, book trackers, TBR lists, reading bingo, book club handouts | printable-studio |
-| `writing/` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | printable-studio |
-| `planners/` | Weekly and monthly planners, habit trackers, goal sheets | printable-studio |
-| `mazes/` | Square, triangular, hexagonal and circular mazes, with solutions | maze generator |
-| `sudoku/` | Sudoku and sudoku variants across several difficulties, with solutions | sudoku generator |
-| `crosswords/` | 5×5, 10×10 and 15×15 crossword puzzles, with solutions | crossword generator |
-| `colouring/` | Mandala colouring pages | mandala generator |
+| `For readers` | Reading journals, book trackers, TBR lists, reading bingo, book club handouts | [View Releases](./../releases) |
+| `For writers` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | [View Releases](./../releases) |
+| `Planners` | Weekly and monthly planners, habit trackers, goal sheets | [View Releases](./../releases) |
+| `Mazes` | Square, triangular, hexagonal and circular mazes, with solutions | [View Releases](./../releases) |
+| `Sudoku Puzzles` | Sudoku and sudoku variants across several difficulties, with solutions | [View Releases](./../releases) |
+| `Crossword Puzzles` | 5×5, 10×10 and 15×15 crossword puzzles, with solutions | [View Releases](./../releases) |
+| `Coloring Books` | Mandala colouring pages | [View Releases](./../releases)
 
 Every file is a PDF. Nothing needs installing and nothing needs an account.
 
