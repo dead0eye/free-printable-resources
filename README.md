@@ -77,13 +77,13 @@ the next batch. [Patreon](https://www.patreon.com/getfreeebooks) works too.
 
 - [free-book-prompt-studio](https://github.com/dead0eye/free-book-prompt-studio)
 - [awesome-reading-writing-tools](https://github.com/dead0eye/awesome-reading-writing-tools) — Compilations & resources
+- Website: [https://www.getfreeebooks.com](https://www.getfreeebooks.com)
 
 ## More from Wemplates (Free Divi5 Layouts)
 
 - [wemplates-divi5-layouts](https://github.com/dead0eye/wemplates-divi5-layouts) — Free Divi5 layouts
 - [awesome-webdesign-tools](https://github.com/dead0eye/awesome-webdesign-tools) — Compilations & resources
-
-Website: [https://www.getfreeebooks.com](https://www.getfreeebooks.com)
+- Website: [https://www.wemplates.com](https://www.wemplates.com)
 
 <details>
 <summary>Follow us</summary>
