@@ -10,6 +10,12 @@ Print-ready PDFs: reading journals, book trackers, planners, writing worksheets,
 
 ---
 
+## Future updates
+
+- **Localization** - Creating all of these printable PDFs into popular languages.
+
+---
+
 ## What is here
 
 <!-- Update this table as categories are added. -->
