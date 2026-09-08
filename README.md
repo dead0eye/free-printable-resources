@@ -78,6 +78,7 @@ the next batch. [Patreon](https://www.patreon.com/getfreeebooks) works too.
 - [free-book-prompt-studio](https://github.com/dead0eye/free-book-prompt-studio)
 - [awesome-reading-writing-tools](https://github.com/dead0eye/awesome-reading-writing-tools) — Compilations & resources
 - Website: [https://www.getfreeebooks.com](https://www.getfreeebooks.com)
+- Youtube: [youtube.com/getfreeebooks](https://www.youtube.com/getfreeebooks?sub_confirmation=1)
 
 ## More from Wemplates (Free Divi5 Layouts)
 
