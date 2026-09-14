@@ -28,7 +28,8 @@ Print-ready PDFs: reading journals, book trackers, planners, writing worksheets,
 | `Mazes` | Square, triangular, hexagonal and circular mazes, with solutions | Coming Soon |
 | `Sudoku Puzzles` | Sudoku and sudoku variants across several difficulties, with solutions | Coming Soon |
 | `Crossword Puzzles` | 5×5, 10×10 and 15×15 crossword puzzles, with solutions | Coming Soon |
-| `Coloring Books` | Mandala colouring pages | Coming Soon
+| `Coloring Books` | Mandala colouring pages | Coming Soon |
+| `Word Puzzles` | Mandala colouring pages | [View Releases](../../releases/tag/word-puzzles) |
 
 Every file is a PDF. Nothing needs installing and nothing needs an account.
 
