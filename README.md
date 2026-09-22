@@ -25,7 +25,7 @@ Print-ready PDFs: reading journals, book trackers, planners, writing worksheets,
 | `For readers` | Reading journals, book trackers, TBR lists, reading bingo, book club handouts | [View Releases](../../releases/tag/for-readers) |
 | `For writers` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | Coming Soon |
 | `Planners / Productivity` | Weekly and monthly planners, habit trackers, goal sheets | [View Releases](../../releases/tag/planners-productivity) |
-| `Mazes` | Square, triangular, hexagonal and circular mazes, with solutions | Coming Soon |
+| `Mazes` | Square, triangular, hexagonal and circular mazes, with solutions | [View Releases](../../releases/tag/Mazes) |
 | `Sudoku Puzzles` | Sudoku and sudoku variants across several difficulties, with solutions | Coming Soon |
 | `Crossword Puzzles` | 5×5, 10×10 and 15×15 crossword puzzles, with solutions | Coming Soon |
 | `Coloring Books` | Mandala colouring pages | Coming Soon |
