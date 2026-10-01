@@ -26,10 +26,10 @@ Print-ready PDFs: reading journals, book trackers, planners, writing worksheets,
 | `For writers` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | [View Releases](../../releases/tag/for-writers) |
 | `Planners / Productivity` | Weekly and monthly planners, habit trackers, goal sheets | [View Releases](../../releases/tag/planners-productivity) |
 | `Mazes` | Square, triangular, hexagonal and circular mazes, with solutions | [View Releases](../../releases/tag/Mazes) |
-| `Sudoku Puzzles` | Sudoku and sudoku variants across several difficulties, with solutions | Coming Soon |
-| `Crossword Puzzles` | 5×5, 10×10 and 15×15 crossword puzzles, with solutions | Coming Soon |
+| `Sudoku Puzzles` | Sudoku and sudoku variants across several difficulties, with solutions | [View Releases](../../releases/tag/sudoku-puzzles) |
+| `Crossword Puzzles` | 5×5, 10×10 and 15×15 crossword puzzles, with solutions | [View Releases](../../releases/tag/crossword-puzzles) |
+| `Word Puzzles` | Word puzzles / games | [View Releases](../../releases/tag/word-puzzles) |
 | `Coloring Books` | Mandala colouring pages | [View Releases](../../releases/tag/coloring-books) |
-| `Word Puzzles` | Mandala colouring pages | [View Releases](../../releases/tag/word-puzzles) |
 
 Every file is a PDF. Nothing needs installing and nothing needs an account.
 
