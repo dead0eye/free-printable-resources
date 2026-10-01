@@ -23,7 +23,7 @@ Print-ready PDFs: reading journals, book trackers, planners, writing worksheets,
 | Printables | What is in it | Download |
 |:---|:---|:---|
 | `For readers` | Reading journals, book trackers, TBR lists, reading bingo, book club handouts | [View Releases](../../releases/tag/for-readers) |
-| `For writers` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | Coming Soon |
+| `For writers` | Story planners, character sheets, beat sheets, revision checklists, writing prompts | [View Releases](../../releases/tag/for-writers) |
 | `Planners / Productivity` | Weekly and monthly planners, habit trackers, goal sheets | [View Releases](../../releases/tag/planners-productivity) |
 | `Mazes` | Square, triangular, hexagonal and circular mazes, with solutions | [View Releases](../../releases/tag/Mazes) |
 | `Sudoku Puzzles` | Sudoku and sudoku variants across several difficulties, with solutions | Coming Soon |
